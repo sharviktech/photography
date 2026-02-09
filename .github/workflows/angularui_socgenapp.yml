@@ -52,4 +52,4 @@ jobs:
           app-name: 'SOCGENApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_66C30B5D72A346D19B767EDF7861F317 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_91AB472C60E84704B60C36631D9925EB }}
